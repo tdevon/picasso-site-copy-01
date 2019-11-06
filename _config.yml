@@ -1,21 +1,21 @@
-title: Stackbit Exto Theme
+title: Picasso Painting
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
 color_scheme: light
-accent_color: pink
+accent_color: blue
 header:
-  title: Exto
+  title: Picasso Painting
   has_nav: true
 footer:
-  content: '&copy; Stackbit-Exto. All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
-  has_social: true
+  content: '&copy; Picasso Painting Company. All rights reserved.'
+  # links:
+  #   - text: Picasso Painting Comp
+  #     url: 'http://www.picassopaitingcompany.com'
+  #     new_window: false
+  has_social: false
 sass:
   indentWidth: 4
   style: nested
